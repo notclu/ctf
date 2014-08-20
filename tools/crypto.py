@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/Users/clu/ctf/tools')
 import ctf
 
 def do_xor(a, b):
