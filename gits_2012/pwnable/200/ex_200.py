@@ -3,10 +3,9 @@ __author__ = 'clu'
 import struct
 import sys
 
-sys.path.append('/Users/clu/ctf/tools')
+sys.path.append('../../../tools')
 
 import ctf
-import hexdump
 import random
 
 HOST = '192.168.56.101'

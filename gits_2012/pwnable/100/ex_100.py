@@ -1,10 +1,9 @@
 __author__ = 'clu'
 
-import struct
 import sys
 import socket
 
-sys.path.append('/Users/clu/ctf/tools')
+sys.path.append('../../../tools')
 
 import ctf
 
