@@ -2,7 +2,7 @@ import random
 import sys
 import struct
 import subprocess
-sys.path.append('/Users/lucas/ctf/tools')
+sys.path.append('../../..//tools')
 
 import ctf
 
